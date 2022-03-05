@@ -1,1 +1,1 @@
-# IBM_DS_capstone
+IBM Data Science capstone project
